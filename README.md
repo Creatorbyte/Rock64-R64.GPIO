@@ -1,5 +1,5 @@
 # Rock64-R64.GPIO
-A Python GPIO library for the Rock64 single-board computer ([RPi.GPIO](https://sourceforge.net/projects/raspberry-gpio-python/) clone).
+A Python GPIO library for the Rock64 and RockPro64 single-board computer ([RPi.GPIO](https://sourceforge.net/projects/raspberry-gpio-python/) clone).
 
 ## Python Libraries and Scripts
 
